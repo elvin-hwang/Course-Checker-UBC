@@ -29,5 +29,5 @@ Some notes:
 * Please try and enter only correct values for each input, there's no catching protocol for incorrectly formatted input
 
 * Mac users: If you want to keep your laptop awake until it registers you (or you terminate the process), use: 
-    "caffeinate -i -s python courseChecker.py". The screen will turn off but python will keep running. This will enable the script to keep running when the laptop is plugged in and sleeping overnight.
+    <code>caffeinate -i -s python courseChecker.py</code>. The screen will turn off but python will keep running. This will enable the script to keep running when the laptop is plugged in and sleeping overnight.
 * Windows users: there are other programs that you can download (optional), if you want to keep your windows awake, such as this one - https://www.zhornsoftware.co.uk/caffeine/. 
