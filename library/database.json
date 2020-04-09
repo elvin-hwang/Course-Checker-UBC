@@ -1,1 +1,24 @@
-{}
+{
+  "hosung19": {
+    "courses": [
+      {
+        "acceptRestricted": true, 
+        "course": "304", 
+        "courseURL": "https://courses.students.ubc.ca/cs/courseschedule?sesscd=S&pname=subjarea&tname=subj-section&sessyr=2020&course=304&section=T1C&dept=CPSC", 
+        "dept": "CPSC", 
+        "fromSection": "", 
+        "registerURL": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-section&submit=Register%20Selected&wldel=CPSC%2C304%2CT1C", 
+        "season": "S", 
+        "section": "T1C", 
+        "switchSection": false, 
+        "switchURL": "", 
+        "year": "2020"
+      }
+    ], 
+    "cwl_pass": "Mjg2NTI4NUhzLg==", 
+    "cwl_user": "hosung19", 
+    "delay": 60, 
+    "email": "hosung0519@hotmail.com", 
+    "registerAutomatic": false
+  }
+}

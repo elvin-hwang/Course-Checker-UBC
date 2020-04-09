@@ -15,8 +15,9 @@ Note that you don't need to keep the terminal window open, just the program.
 
 Some notes:
 
+* Emails may be sent to junk folder, please check appropriately
 * RECOMMENDED to test with a course that is already open first, just to verify that it works. 
-    * Email "courseopen@gmail.com" for any problems.
+    * Email "hosung0519@hotmail.com" for any problems.
 * Once you have added a course to the list, click on the URL to verify that it has been added successfully.
     *  Otherwise, double check the course and section on SSC and try again
 * Logs you in only once when a course is open for registration, so it's (relatively) safe to use with not a lot of risks.

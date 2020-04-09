@@ -43,22 +43,28 @@ class Email():
 
   # init Email class
   def __init__(self, toAddr, course):
-    self.fromAddr = "courseopen@gmail.com"
+    self.fromAddr = "courseopen@outlook.com"
     self.toAddr = toAddr
     self.course = course
   
   def sendEmail(self):
     if (self.toAddr):
-      msg = self.createMessage(self.course)
-      # Send the message via gmail's regular server, over SSL - passwords are being sent, afterall
-      s = smtplib.SMTP_SSL('smtp.gmail.com')
-      # uncomment if interested in the actual smtp conversation
-      # s.set_debuglevel(1)
-      # do the smtp auth; sends ehlo if it hasn't been sent already
-      s.login(self.fromAddr, r"123Admin")
+      try:
+        msg = self.createMessage(self.course)
+        # Send the message via gmail's regular server, over SSL - passwords are being sent, afterall
+        s = smtplib.SMTP('smtp-mail.outlook.com', 587)
+        # uncomment if interested in the actual smtp conversation
+        # s.set_debuglevel(1)
+        # do the smtp auth; sends ehlo if it hasn't been sent already
+        s.ehlo()
+        s.starttls()
+        s.ehlo()
+        s.login(self.fromAddr, r"course123")
 
-      s.sendmail(self.fromAddr, self.toAddr, msg.as_string())
-      s.quit()
+        s.sendmail(self.fromAddr, self.toAddr, msg.as_string())
+        s.quit()
+      except Exception as e:
+        print e
 
   def createMessage(self, course):
     msg = MIMEMultipart('alternative')

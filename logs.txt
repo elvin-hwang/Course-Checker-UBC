@@ -1,0 +1,44 @@
+04/08/2020 20:20:40 - Scanning for CPSC 304 T1C
+04/08/2020 20:20:40 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:20:42 - Seats found for CPSC 304 T1C!
+04/08/2020 20:20:42 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:43:50 - Scanning for CPSC 304 T1C
+04/08/2020 20:43:50 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:43:51 - Seats found for CPSC 304 T1C!
+04/08/2020 20:43:51 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:45:38 - Scanning for CPSC 304 T1C
+04/08/2020 20:45:38 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:45:43 - Seats found for CPSC 304 T1C!
+04/08/2020 20:45:43 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:47:15 - Scanning for CPSC 304 T1C
+04/08/2020 20:47:15 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:47:16 - Seats found for CPSC 304 T1C!
+04/08/2020 20:47:16 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:50:02 - Scanning for CPSC 304 T1C
+04/08/2020 20:50:02 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:50:08 - Seats found for CPSC 304 T1C!
+04/08/2020 20:50:08 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:51:17 - Scanning for CPSC 304 T1C
+04/08/2020 20:51:17 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:51:22 - Seats found for CPSC 304 T1C!
+04/08/2020 20:51:22 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:56:43 - Scanning for CPSC 304 T1C
+04/08/2020 20:56:43 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:56:44 - Seats found for CPSC 304 T1C!
+04/08/2020 20:56:44 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 20:57:04 - Scanning for CPSC 304 T1C
+04/08/2020 20:57:04 - Started Scanning for CPSC 304 T1C!
+04/08/2020 20:57:08 - Seats found for CPSC 304 T1C!
+04/08/2020 20:57:08 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 21:05:37 - Scanning for CPSC 304 T1C
+04/08/2020 21:05:37 - Started Scanning for CPSC 304 T1C!
+04/08/2020 21:05:41 - Seats found for CPSC 304 T1C!
+04/08/2020 21:05:41 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 21:06:19 - Scanning for CPSC 304 T1C
+04/08/2020 21:06:19 - Started Scanning for CPSC 304 T1C!
+04/08/2020 21:06:21 - Seats found for CPSC 304 T1C!
+04/08/2020 21:06:21 - Stopped Scanning for CPSC 304 T1C!
+04/08/2020 21:11:06 - Scanning for CPSC 304 T1C
+04/08/2020 21:11:06 - Started Scanning for CPSC 304 T1C!
+04/08/2020 21:11:09 - Seats found for CPSC 304 T1C!
+04/08/2020 21:11:09 - Stopped Scanning for CPSC 304 T1C!
